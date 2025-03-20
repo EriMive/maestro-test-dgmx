@@ -1,0 +1,9 @@
+#open app
+appId: org.khanacademy.android
+---
+- launchApp:
+    appId: org.khanacademy.android
+    clearState: true
+
+- tapOn: "OK"
+# - tapOn: "No thanks, I’ll update later"

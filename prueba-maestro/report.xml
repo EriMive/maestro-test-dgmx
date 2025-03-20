@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites>
+  <testsuite name="Test Suite" device="emulator-5554" tests="6" failures="0" time="260">
+    <testcase id="04_login_validMail_invalidPassword" name="04_login_validMail_invalidPassword" classname="04_login_validMail_invalidPassword" time="50" status="SUCCESS"/>
+    <testcase id="06_login_validMail_validPassword" name="06_login_validMail_validPassword" classname="06_login_validMail_validPassword" time="49" status="SUCCESS"/>
+    <testcase id="05_login_invalidMail_validPassword" name="05_login_invalidMail_validPassword" classname="05_login_invalidMail_validPassword" time="43" status="SUCCESS"/>
+    <testcase id="03_login_only_password" name="03_login_only_password" classname="03_login_only_password" time="37" status="SUCCESS"/>
+    <testcase id="02_login_only_email" name="02_login_only_email" classname="02_login_only_email" time="42" status="SUCCESS"/>
+    <testcase id="01_login_no_credentials" name="01_login_no_credentials" classname="01_login_no_credentials" time="39" status="SUCCESS"/>
+  </testsuite>
+</testsuites>
